@@ -1,0 +1,62 @@
+﻿
+.backGround {
+    background: url(home.jpg) center no-repeat;
+    background-size: cover;
+    height: 400px;
+    vertical-align: top;
+}
+
+.bannerForm {
+    font-family: Montserrat;
+    text-align: center;
+    color: white;
+    padding-top: 90px;
+    text-shadow: 10px 10px 10px black;
+}
+
+    .bannerForm h2 {
+        font-size: 58px;
+    }
+
+    .bannerForm p {
+        font-size: 20px;
+        margin-bottom: 40px;
+    }
+
+    .bannerForm Form {
+        max-width: 640px;
+        background: rgba(255, 255, 255, 0.2);
+        border-radius: 5px;
+        padding: 15px;
+        text-align: left;
+    }
+
+        .bannerForm Form input[type="text"] {
+            width: 450px;
+        }
+
+.seachInputbtn {
+    width: 149px;
+    background-color: #32b67a;
+    border: none;
+    color: white;
+}
+
+    .seachInputbtn:hover {
+        background-color: #32b67a;
+        border: none;
+        color: white;
+    }
+
+
+.trip-search {
+    margin: -40px 0 60px;
+    position: relative;
+    z-index: 1;
+}
+    
+.btnBigForSearch Button{
+    font-size:20px;
+    height:80px;
+    width:100%;
+}
