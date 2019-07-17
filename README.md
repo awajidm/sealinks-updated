@@ -13,7 +13,7 @@ This project using the following technologies:
 - [MongoDb](https://www.mongodb.com/)
 
 
-You need run this command before running the project
+You must have to run this command before running the project
 ```shell
 npm install
 ```
