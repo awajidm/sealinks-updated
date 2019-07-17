@@ -1,4 +1,4 @@
-# Sealinks project
+# Sealinks project by Wajid Mirza
 
 This is a boilerplate project using the following technologies:
 - [React](https://facebook.github.io/react/) and [React Router](https://reacttraining.com/react-router/) for the frontend
@@ -11,6 +11,8 @@ This is a boilerplate project using the following technologies:
 
 - [Node.js](https://nodejs.org/en/) 6+
 
+
+You need run this command before running the project
 ```shell
 npm install
 ```
