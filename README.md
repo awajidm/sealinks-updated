@@ -10,6 +10,7 @@ This project using the following technologies:
 ## Requirements
 
 - [Node.js](https://nodejs.org/en/) 6+
+- [MongoDb](https://www.mongodb.com/)
 
 
 You need run this command before running the project
